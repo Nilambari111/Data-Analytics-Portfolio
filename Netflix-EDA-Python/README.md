@@ -28,10 +28,6 @@ Performed Exploratory Data Analysis (EDA) on the Netflix Movies and TV Shows dat
 - netflix_titles.csv
 - README.md
 
-## Dashboard Preview
-
-*(Add your charts/screenshots here)*
-
 ## Author
 **Nilambari Pardeshi**  
 Aspiring Data Analyst
