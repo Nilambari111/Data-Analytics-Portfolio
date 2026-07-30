@@ -85,12 +85,6 @@ This Power BI dashboard provides a comprehensive analysis of HR data to help org
 
 ---
 
-## 📸 Dashboard Preview
-
-![HR Dashboard](Dashboard_Screenshot.png)
-
----
-
 ## 📞 Contact
 
 **Author:** Nilambari Pardeshi
